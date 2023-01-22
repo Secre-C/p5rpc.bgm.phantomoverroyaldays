@@ -1,0 +1,34 @@
+{
+  "ModId": "p5rpc.bgm.phantomoverroyaldays",
+  "ModName": "Phantom Over Royal Days",
+  "ModAuthor": "SecreC.",
+  "ModVersion": "1.1.0",
+  "ModDescription": "Makes Phantom play instead of Royal Days on the title screen.",
+  "ModDll": "p5rpc.bgm.phantomoverroyaldays.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p5rpc.bgm.phantomoverroyaldays.dll",
+  "ModR2RManagedDll64": "x64/p5rpc.bgm.phantomoverroyaldays.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p5rpc.bgm.phantomoverroyaldays.ReleaseMetadata.json",
+  "PluginData": {
+    "GameBanana": {
+      "ItemType": "Mod",
+      "ItemId": 408807
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "Reloaded.Memory.SigScan.ReloadedII",
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p5r.exe"
+  ],
+  "ProjectUrl": ""
+}
